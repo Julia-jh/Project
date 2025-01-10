@@ -1,2 +1,12 @@
-# Project
-This is a repo with my personal project.
+# 개인 작업 공간
+
+## Project 개요
+- Project_01
+    - 북한의 도발
+    - 2025
+- Project_02
+    - 나만의 아이템 서랍장
+    - 20250109-2025 
+- Project_03
+    - 아이스크림 박사님
+    - 2025
