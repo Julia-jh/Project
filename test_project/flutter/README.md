@@ -1,8 +1,9 @@
 # Flutter 연습하는 공간
 
 ## 20250110
-- 
-
+- dart 무료 강의 수강한 내용을 dart_tour 폴더에 정리 중
+- 참고사이트: [
+Flutter 앱 개발을 위한 Dart 배우기](https://nomadcoders.co/dart-for-beginners)
 
 ## 20250109
 - Android Studio, Flutter를 설치해 사용중
