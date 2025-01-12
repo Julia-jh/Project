@@ -20,6 +20,7 @@
 /*
 변수 선언 함수2
 */
+
 // void main() {
 //   var varName;
 //   varName = '변수값';
@@ -39,18 +40,31 @@
 /*
 변수 선언 함수3
 */
-void main() {
-  String? varName = 'variable';
-  print(varName);
-  varName = null;
-  print(varName);
-  varName = 'variable';
 
-  // 아래 두 구문은 동일한 행동을 한다.
-  if (varName != null) {
-    varName.isNotEmpty;
-    print('if문: ' + varName);
-  }
-  varName?.isNotEmpty;
-  print('? 사용한 것: ' + varName);
+// void main() {
+//   String? varName = 'variable';
+//   print(varName);
+//   varName = null;
+//   print(varName);
+//   varName = 'variable';
+
+//   // 아래 두 구문은 동일한 행동을 한다.
+//   if (varName != null) {
+//     varName.isNotEmpty;
+//     print('if문: ' + varName);
+//   }
+//   varName?.isNotEmpty;
+//   print('? 사용한 것: ' + varName);
+// }
+
+/*
+변수 선언 함수4
+*/
+
+void main() {
+  final varName = 'const';
+  print(varName);
+  late final varName2;
+  varName2 = 'late';
+  print(varName2);
 }
